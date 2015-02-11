@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RetrollerDroid</string>
+    <string name="title_activity_main">RetrollerDroid</string>
+    <string name="back">Back</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="select">Select</string>
+    <string name="loadState">Load State</string>
+    <string name="saveState">Save State</string>
+    <string name="title_activity_hyper_spin">HyperSpin</string>
+    <string name="title_activity_visual_boy_advance">VisualBoyAdvance</string>
+    <string name="title_activity_pcsx2">Pcsx2</string>
+    <string name="title_activity_dolphin">Dolphin</string>
+    <string name="quit">Quit</string>
+
+</resources>
